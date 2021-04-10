@@ -8,6 +8,6 @@
 - 📖 Publications(maybe?), [Getting Started with Python](https://jarvisma.gitbook.io/pythonlearn/).
 - 📧 Email me at: realjarvisma@icloud.com(***Preferred***)
 
-~~Still a long way to full-stack.~~👀
+Still a long way to full-stack.👀
 
 ### *Cheers*🍻
