@@ -1,4 +1,4 @@
-### Yoo, I'm Jarvis Ma 👋
+### Yoo, I'm *Jarvis Ma* 👋
 
 - 🍭 🇨🇳[XDU](https://www.xidian.edu.cn) Alumni, ***B.E. in SE.***
 - ⚡ Python / C++ / Go / Swift
@@ -8,4 +8,6 @@
 - 📖 Publications(maybe?), [Getting Started with Python](https://jarvisma.gitbook.io/pythonlearn/).
 - 📧 Email me at: realjarvisma@icloud.com(***Preferred***)
 
-Cheers🍻
+~~Still a long way to full-stack.~~👀
+
+### *Cheers*🍻
