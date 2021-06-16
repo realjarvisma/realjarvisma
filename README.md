@@ -6,6 +6,7 @@
 - ⚡ Python / C++ / Go / Swift
 - 🔭 Mobile Technology / Computer Vision.
 - 📖 Publications(maybe?), [Getting Started with Python](https://jarvisma.gitbook.io/pythonlearn/).
+- 🎮 League of Legends / Overwatch
 - 📧 Email me at: realjarvisma@icloud.com(***Preferred***)
 
 Still a long way to full-stack.👀
