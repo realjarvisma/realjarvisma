@@ -6,7 +6,9 @@
 - 🍭 🇨🇳[XDU](https://www.xidian.edu.cn) Alumni, ***BSc in Software Engineering***
 - ⚡  Python / C++ / Go / Swift
 - 🔭 Mobile Technology / Computer Vision.
-- 📖 Publications(maybe?), [Getting Started with Python](https://jarvisma.gitbook.io/pythonlearn/).
+- 📖 Publications(maybe?)
+  - [On-device Panoptic Segmentation for Camera Using Transformers](https://machinelearning.apple.com/research/panoptic-segmentation);
+  - [Getting Started with Python](https://jarvisma.gitbook.io/pythonlearn/);
 - 🎮 League of Legends / Overwatch
 - 📧 Email me at: realjarvisma@icloud.com(***Preferred***)
 
