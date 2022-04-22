@@ -2,8 +2,8 @@
 
 ![](https://i.loli.net/2021/05/03/U7OnJz8acjZSkbr.png)
 
-- 🎓 Postgraduate student at 🇺🇸[CMU](https://www.cmu.edu), ***MSc in Computing Science***
-- 🍭 🇨🇳[XDU](https://www.xidian.edu.cn) Alumni, ***BSc in Software Engineering***
+- 🎓 Postgraduate student at 🇺🇸[CMU](https://www.cmu.edu), ***MSc in Computing Vision***
+- 🍭 🇨🇳[XDU](https://www.xidian.edu.cn) Alumni, ***BE in Software Engineering***
 - ⚡  Python / C++ / Go / Swift
 - 🔭 Mobile Technology / Computer Vision.
 - 📖 Publications(maybe?)
